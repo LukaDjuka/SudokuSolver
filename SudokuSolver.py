@@ -1,7 +1,7 @@
 """
-Program for solving a 9x9 Sudoku Puzzle.
+Program for solving 9x9 Sudoku Puzzles.
 Uses "Simple" algorithm to solve the puzzle - Involves scanning each row, column and subgrid of the sudoku
-board it until finds the appropriate number to place in the unit square
+puzzle until finds the appropriate number to place in the unit square
 
 23-06-2020
 By: Luka Djukic
